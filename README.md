@@ -24,4 +24,30 @@ Think **blocks** that talk to each other, **workflows** you can customize, and *
 ---
 
 ## 📸 Screens & Demo (public)
-> Put your visuals here (add files into `./docs/` or `
+> Put your visuals here (add files into `./docs/` or `./assets/` and link them)
+
+- UI mockup: `docs/ui-builder.png`  
+- Orchestration view: `docs/orchestrator.png`  
+- Shopify connector: `docs/shopify.png`
+
+---
+
+## 🚀 Quick Start (placeholder)
+
+> This section shows how a developer would try Nova S7 locally when the SDK is public.
+
+```bash
+# 1) Clone (public repo)
+git clone https://github.com/novaiset/AI-Orchestration.git
+cd AI-Orchestration
+
+# 2) Install (choose your stack later)
+# Node
+npm install
+# or Python
+# pip install -r requirements.txt
+
+# 3) Run (placeholder)
+npm run dev
+# or
+# uvicorn novaiset.app:app --reload
