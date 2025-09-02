@@ -20,14 +20,5 @@ Think **blocks** that talk to each other, **workflows** you can customize, and *
 - 🧩 **No-Code Builder** — drag-and-drop workflows, guardrails & business rules  
 - ⚡ **Plug-&-Play** — native connectors for **Shopify**, **HubSpot**, and **ERP** systems  
 - 🛒 **AI Marketplace** — install pre-built blocks, pay-as-you-grow
-
----
-
-## 📸 Screens & Demo (public)
-> Put your visuals here (add files into `./docs/` or `./assets/` and link them)
-
-- UI mockup: `docs/ui-builder.png`  
-- Orchestration view: `docs/orchestrator.png`  
-- Shopify connector: `docs/shopify.png`
-
+  
 ---
